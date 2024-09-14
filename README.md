@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I’m a software engineer / DevOps Engineer, I love building scalable, well-engineered products that can handle both the test of time and technological advancements.<br><br>- 🔭 I’m work as Software/DevOps Engineer</p>
+<p align="left">I’m a Software Engineer & DevOps Engineer, I build scalable, well-engineered products that can handle both the test of time and technological advancements.
 
 ###
 

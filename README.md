@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Olat-nji)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Olat-nji"/></a>
 </div>
 
 ###
